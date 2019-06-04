@@ -1,0 +1,18 @@
+codeGit
+was git-jrgpulido
+
+
+
+mdpDesk
+.
+mdpDcl [nojrgpulido]
+x
+mbaTwo [nojrgpulido]
+.
+mbaOne
+.
+
+
+
+zee .gitconfig 
+Qm filter
