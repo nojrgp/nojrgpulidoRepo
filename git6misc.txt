@@ -1,5 +1,0 @@
-#
-git branch
-
-# whats to commit
-git status
